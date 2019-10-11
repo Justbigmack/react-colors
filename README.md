@@ -1,6 +1,8 @@
-# React
+# React Colors
 
 Welcome to React Color Palette Generator. This app allows you to generate color palettes for your projects in the matter of seconds. Take advantage of easy to use UI and drag and drop system to simplify your future projects.
+
+The project is put together using React, CSS in JS, Material UI and features some React Router animations.
 
 ## Getting Started
 
