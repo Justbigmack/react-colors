@@ -1,0 +1,17 @@
+export default {
+  down(size) {
+    const sizes = {
+      xss: '401px',
+      xs: '575.98px',
+      sm: '767.98px',
+      md: '991.98px',
+      lg: '1199.98px',
+      xl: '1600px',
+      xxl: '2000px',
+      xxxl: '2400px',
+      xxxxl: '2800px',
+      xxxxxl: '3500px'
+    }
+    return `@media (max-width: ${sizes[size]})`
+  }
+}
