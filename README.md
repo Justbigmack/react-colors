@@ -40,4 +40,4 @@ Click on the color to copy its code in the format selected in the top-right corn
 
 ## Demo
 
-You can visit https://color-palette-generator.herokuapp.com for a working demo.
+You can visit https://colors.andrewkaras.me for a working demo.
